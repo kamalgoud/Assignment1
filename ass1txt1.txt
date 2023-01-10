@@ -1,0 +1,7 @@
+1. ssh-keygen used to generate ssh folders in pc. 
+  In github after creating repo ther will be ssh link to upload repo
+  git init
+  git add .
+  git commit -m "messsage"
+  git remote add origin ssh-link
+  git push -u origin master
