@@ -1,0 +1,9 @@
+Nodejs : It is a JS runtime environment that lets Javascript to be run on the server-side. 
+It is cross-platform, and it thus allows the JS code to run outside any browser easily. 
+There are various modules in NodeJS, and it is mainly utilised in the process of web development.
+
+Javascript : It is a scripting language,mainly utilised in making the HTML web pages more dynamic and interactive. 
+It is a high-level language, and it makes use of the Oops concept. Yet, it is based primarily on the concept of prototype inheritance.
+
+git command to reset commit :  git reset --head Head 
+                               git revert Head
