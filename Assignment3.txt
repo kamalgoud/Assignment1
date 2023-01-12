@@ -1,0 +1,21 @@
+1. Node. js uses the “Single Threaded Event Loop” architecture to handle multiple concurrent clients. 
+Node. js Processing Model is based on the JavaScript event-based model along with the JavaScript callback mechanism
+
+2. primitive data types :
+   string.
+    number.
+    bigint.
+    boolean.
+    undefined.
+    symbol.
+    null.
+
+3. let allows you to declare variables that are limited to the scope of a block statement, or expression on which it is used,
+   unlike the var keyword, which declares a variable globally, or locally to an entire function regardless of block scope.
+
+4. var arr=[1,2,3];
+    arr.push();
+    arr.pop();
+    arr.sort();
+
+5. const obj = {name:"kamal",no:1};
